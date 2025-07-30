@@ -37,12 +37,12 @@
 ### 🧠 Currently Exploring:
 - Machine Learning Algorithms
 - Data Preprocessing and Visualization
-- Model evaluation with **scikit-learn**
+- Model evaluation with scikit-learn
 - Real-world project development workflows
 
 ---
 
 ### 📌 Fun Fact:
-> *"In the midst of chaos, there is also opportunity." – Sun Tzu*
+> In the midst of chaos, there is also opportunity.
 
 ---
